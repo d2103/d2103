@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Duc, a third-year student pursuing a major in Mathematics and Computer Science at Hanoi University of Science.</h1>
-<p>Curious about the world.</p>
+<h1>Hi 👋, I'm Duc.</h1>
+<p>A third-year student pursuing a major in Mathematics and Computer Science at Hanoi University of Science.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
